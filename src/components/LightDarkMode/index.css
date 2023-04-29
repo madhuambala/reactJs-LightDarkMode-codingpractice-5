@@ -1,0 +1,34 @@
+/* Write your CSS here */
+div {
+  border-width: 3px;
+  border-color: black;
+  border-radius: 15px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bgWhite {
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+.bgDark {
+  background-color: #000000;
+}
+
+.darkText {
+  color: #ffffff;
+}
+
+.whiteText {
+  color: #000000;
+}
+
+button {
+  color: #000000;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+}
